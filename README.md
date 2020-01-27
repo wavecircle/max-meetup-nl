@@ -67,6 +67,8 @@ The NL Max Community repository. This repository includes a collection of patche
 - Some live performances instead of presentations (maybe as a different type of event)
 - *...any ideas? [edit this readme](#contribute)*
 
+Limited object patching challenges. We can perhaps use a limited number of max, msp and jitter objects (maybe 10 of each), allows new starters to get familiar and creative with new objects but not being overwhelmed by the infinity of choices. Be great to compare patching ideas at the next meetup.
+
 ## Contribute
 
 **Add your own patches?**
